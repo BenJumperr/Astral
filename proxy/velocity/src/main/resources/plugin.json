@@ -1,0 +1,8 @@
+{
+  "id": "aeroproxy",
+  "name": "AeroProxy",
+  "version": "1.0.0",
+  "description": "AeroItems Minecraft Proxy Core",
+  "auhtors": "BenJumperr",
+  "main": "xyz.aeroitems.proxy.velocity.VelocityBootstrap"
+}
