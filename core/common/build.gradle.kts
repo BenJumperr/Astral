@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "xyz.aeroitems"
-version = "1.0.0"
+version = rootProject.version
 
 java {
     toolchain.languageVersion.set(JavaLanguageVersion.of(17))
